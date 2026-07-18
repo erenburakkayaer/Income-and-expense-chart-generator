@@ -1,0 +1,62 @@
+[
+    {
+        "month": "February 2020",
+        "income": 59000,
+        "expense": 3000
+    },
+    {
+        "month": "January 2021",
+        "income": 20000,
+        "expense": 500
+    },
+    {
+        "month": "February 2021",
+        "income": 30000,
+        "expense": 2000
+    },
+    {
+        "month": "March 2021",
+        "income": 50000,
+        "expense": 100
+    },
+    {
+        "month": "June 2021",
+        "income": 30,
+        "expense": 20
+    },
+    {
+        "month": "October 2021",
+        "income": 3000000,
+        "expense": 2000
+    },
+    {
+        "month": "February 2024",
+        "income": 200,
+        "expense": 1000
+    },
+    {
+        "month": "February 2025",
+        "income": 3000,
+        "expense": 299
+    },
+    {
+        "month": "March 2025",
+        "income": 300,
+        "expense": 200
+    },
+    {
+        "month": "May 2025",
+        "income": 300000,
+        "expense": 2000
+    },
+    {
+        "month": "January 2026",
+        "income": 4000000,
+        "expense": 20000
+    },
+    {
+        "month": "October 2026",
+        "income": 50000,
+        "expense": 2000
+    }
+]
